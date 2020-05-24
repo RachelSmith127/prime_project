@@ -1,0 +1,18 @@
+body {
+  background-color: #b3cccc;
+}
+
+.indent {
+  margin-left:100px;
+  margin-right:50px;
+}
+
+#padding {
+  text-indent: 50px;
+  background-color: #f2f2f2;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 150px;
+  border-top: 4px dotted grey;
+  border-bottom: 4px dotted grey;
+}
